@@ -1,7 +1,7 @@
 <H3>NAME : Suji.G</H3>
 <H3>REGISTER NO : 212222230152</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:24.09.24</H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
